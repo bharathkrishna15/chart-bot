@@ -1,0 +1,10 @@
+step 1: ollama download and install!!
+step 2: find the your model like example llm(large language model) (llama2 ,llama3,etc.....)
+step 3: go to cmd command & syntax : ollama pull <model name> example ollama pull llama2
+step 4: run the llm model & syntax : ollama run <model name> example ollama run llama2
+step 5: we ask any question for cmd 
+step 6: close the cmd tab
+step 7: install python
+step 8: go to open cmd 
+step 9: pip install streamlit
+step10: open visual studio and write the programm....(UI)code..
